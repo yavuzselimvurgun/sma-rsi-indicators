@@ -1,5 +1,10 @@
 ## 'A package that allows you to calculate sma and rsi indicators from a given csv file and outputs the indicators to a given csv file.'
 
+### How to Install:
+```
+pip install sma-rsi-indicators==0.1.5
+```
+
 ### Example Usage:
 ```Python
 import sma_rsi_indicators
