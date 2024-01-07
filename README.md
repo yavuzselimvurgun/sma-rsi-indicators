@@ -15,5 +15,7 @@ sma_rsi_indicators.calculate_rsi(list_of_data,"orcl-rsi.csv")
 Your csv file should contain columns called "Date" and "Close" indicating the dates and the closing values of those dates for this module to work.
 
 The calculate_sma method calculates Simple Moving Averages for a 5-day window.
+
 The calculate_rsi method calculates Relative Strength Indices for a 14-day window.
+
 PyPI: [sma_rsi_indicators](https://pypi.org/project/sma-rsi-indicators/)
